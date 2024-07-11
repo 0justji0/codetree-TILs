@@ -1,9 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         int a = 3;
-        String a = "C";
-        
-        System.out.println(a);
-        System.out.print(b);
+        char b = 'C';
+
+        System.out.print(a + "\n" + b);
     }
 }
